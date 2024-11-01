@@ -5,7 +5,7 @@ const { en, es, ar, id, pt, rs } = require('./libs/idiomas/total-idiomas.js')
 const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Owner", true], ["595984838201"], ["51918534156"], ["123456789"]]
+global.owner = [["50582340051", "Owner", true], ["595984838201"], ["51918534156"], ["18098781279"]]
 global.mods = []
 global.premium = []
 global.blockList = []
@@ -83,7 +83,7 @@ global.APIKeys = {
 global.packname = ""
 global.author = `{
  "bot": "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-  "autor": "Eliasar YT",
+  "autor": "An...",
   "version": "1.2",
   "creador": "Eliasar YT"
 }
