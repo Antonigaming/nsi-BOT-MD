@@ -16,7 +16,7 @@ if (/image/.test(mime)) {
 conn.fakeReply(m.chat, `${lenguaje.sticker.text}`, '0@s.whatsapp.net', 'No haga spam')
 media = await quoted.download()  
 let encmedia = await conn.sendImageAsSticker(m.chat, media, m, { packname: global.packname, author: global.author, contextInfo: {forwardedNewsletterMessageInfo: { 
-newsletterJid: '120363160031023229@newsletter', 
+newsletterJid: '', 
 serverMessageId: '', 
 newsletterName: 'INFINITY-WA 💫' }, 
 forwardingScore: 9999999,  
@@ -26,7 +26,7 @@ await fs.unlinkSync(encmedia)
 if ((quoted.msg || quoted).seconds > 20) return m. reply(lenguaje.sticker.text1)  
 media = await quoted.download()  
 let encmedia = await conn.sendVideoAsSticker(m.chat, media, m, { packname: global.packname, author: global.author, contextInfo: { forwardedNewsletterMessageInfo: { 
-newsletterJid: '120363160031023229@newsletter', 
+newsletterJid: '', 
 serverMessageId: '', 
 newsletterName: 'INFINITY-WA 💫' }, 
 forwardingScore: 9999999,  
