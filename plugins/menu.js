@@ -76,7 +76,7 @@ let grupos = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⪩
 ┊┏━━━━━━━━━━━━━━•
 ┊┃ *🔰 ＭＥＮＵ ＰＡＲＡ ⃐ＧＲＵＰＯＳ 🔰*
 ┊┃━━━━━━━━━━━━━━•
-┊┃𝐺𝑒𝑠𝑡𝑖𝑜𝑛𝑎 𝑡𝑢 𝑔𝑟𝑢𝑝𝑜 𝑐𝑜𝑛  ✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨
+┊┃𝐺𝑒𝑠𝑡𝑖𝑜𝑛𝑎 𝑡𝑢 𝑔𝑟𝑢𝑝𝑜 𝑐𝑜𝑛  ✨ KAKAROTO-𝐁𝐎𝐓 ✨
 ┊┃━━━━━━━━━━━━━━•
 ┊┃ ❏ ${prefix}𝑤𝑒𝑙𝑐𝑜𝑚𝑒 _(𝑜𝑛/𝑜𝑓𝑓)_
 ┊┃ ❏ ${prefix}𝑎𝑛𝑡𝑖𝑙𝑖𝑛𝑘 _(𝑜𝑛/𝑜𝑓𝑓)_
@@ -770,7 +770,7 @@ ${lenguaje.menu.text12}
 *╰♡ﾟ･｡｡･ﾟ♡ﾟ･｡♥｡･ﾟ♥࣭࣭࣭۫┄̸࣭۫♡ﾟ･｡｡･ﾟ♡ﾟ･｡♥｡･ﾟ♥࣭࣭࣭۫┄̸࣭۫♡ﾟ･｡｡･ﾟ♡ﾟ･｡♥｡･ﾟ♥̸࣭࣭࣭࣭࣭ٜ۫┄࣭۫*
 
 *╭─╮─᤻─᳒─᤻᳒᯽⃟ᰳᰬᰶ┈*🔰⃐ＧＲＵＰＯＳ*️⃟ᬽ፝֟━*
-├• 𝐺𝑒𝑠𝑡𝑖𝑜𝑛𝑎𝑟 𝑡𝑢 𝑔𝑟𝑢𝑝𝑜 𝑐𝑜𝑛 ✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨
+├• 𝐺𝑒𝑠𝑡𝑖𝑜𝑛𝑎𝑟 𝑡𝑢 𝑔𝑟𝑢𝑝𝑜 𝑐𝑜𝑛 ✨ KAKAROTO-𝐁𝐎𝐓 ✨
 ├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 ├༒ᰰຼ ✎ ${prefix}𝑤𝑒𝑙𝑐𝑜𝑚𝑒 _(𝑜𝑛/𝑜𝑓𝑓)_
 ├༒ᰰຼ ✎ ${prefix}𝑎𝑛𝑡𝑖𝑙𝑖𝑛𝑘 _(𝑜𝑛/𝑜𝑓𝑓)_
@@ -1063,9 +1063,9 @@ ${lenguaje.menu.text12}
 conn.sendMessage(m.chat, { text: menu,  
 contextInfo:{  
 forwardedNewsletterMessageInfo: { 
-newsletterJid: '120363296103096943@newsletter', 
+newsletterJid: '', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' },
+newsletterName: '✨ KAKAROTO-𝐁𝐎𝐓 ✨' },
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[sender, numBot],  
