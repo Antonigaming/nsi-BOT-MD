@@ -77,7 +77,7 @@ if (command == 'instalarbot' || command == 'crearbot') {
 conn.sendMessage(m.chat, { text: lenguaje.info.text20(fb, md),
 contextInfo:{
 forwardedNewsletterMessageInfo: { 
-newsletterJid: '120363160031023229@newsletter', 
+newsletterJid: '', 
 serverMessageId: '', 
 newsletterName: 'INFINITY-WA 💫' },
 mentions: [sender], 
@@ -120,7 +120,7 @@ if (command == 'infohost' || command == 'host') {
 conn.sendMessage(m.chat, { text: lenguaje.info.text27(nna, host, paypal, fb),
 contextInfo:{
 forwardedNewsletterMessageInfo: { 
-newsletterJid: '120363160031023229@newsletter', 
+newsletterJid: '', 
 serverMessageId: '', 
 newsletterName: 'INFINITY-WA 💫' },
 forwardingScore: 9999999,
@@ -139,7 +139,7 @@ if (command == 'cafirexos' || command == 'Cafirexos') {
 conn.sendMessage(m.chat, { text: lenguaje.info.text26,
 contextInfo:{
 forwardedNewsletterMessageInfo: {
-newsletterJid: '120363160031023229@newsletter', 
+newsletterJid: '', 
 serverMessageId: '',  
 newsletterName: 'INFINITY-WA 💫' },
 mentions: [sender], 
